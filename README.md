@@ -25,4 +25,10 @@ Convierte cualquier imagen en un archivo `.ico` fácilmente y guárdalo en tu PC
 
 ---
 
+## 🤑 Ventajas
+
+Ya no tienes que requerir a una conexion a internet xd
+
+---
+
 ¡Powered By Source Developer!
